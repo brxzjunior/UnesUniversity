@@ -1,3 +1,14 @@
 .fundo{
 	background-color: #180148;
 }
+
+.conteudo{
+	width: 300px;
+	height: 175px;
+	float: left;
+}
+
+#borda{
+	border: 6px solid #46535F;
+}
+
